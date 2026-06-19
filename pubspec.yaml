@@ -1,6 +1,6 @@
 name: flutter_artist_markdown_widget
 description: A modular markdown rendering extension widget for the FlutterArtist ecosystem supporting remote cached URLs and raw content strings.
-version: 0.9.0
+version: 0.9.1
 resolution: workspace
 homepage: https://o7planning.github.io
 
@@ -13,7 +13,7 @@ dependencies:
     sdk: flutter
 
   url_launcher: ^6.3.2
-  flutter_artist_core: ^0.9.1
+  flutter_artist_core: ^1.0.0
   flutter_artist_styles: ^2.1.0
   markdown_widget: ^2.3.2+8
 
